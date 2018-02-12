@@ -1,3 +1,4 @@
+![](https://i.imgur.com/ycZSEC6.png)
 # ravendog
 Watch dog for RVN miner
 

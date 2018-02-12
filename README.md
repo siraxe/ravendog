@@ -16,11 +16,13 @@ Watch dog for RVN miner
     
     You now have to allow “less secure apps” on your gmail account. 
     Otherwise, you won’t be able to connect to it with RavenDog
-    https://www.google.com/settings/security/lesssecureapps
+[https://www.google.com/settings/security/lesssecureapps](https://www.google.com/settings/security/lesssecureapps)
     
-    Set "sender@gmail.com","recipient@gmail.com","senderGmailPassword" fot it to work
+    Set 
+    "sender@gmail.com"
+    "recipient@gmail.com"
+    "senderGmailPassword"
 
-
-
+![](https://i.imgur.com/z746ksc.png)
 
 RVN Cheese is welcome & appreciated, KAAAW ! RTEsqHCxn2HvMjstsr3VRqLuurjZseNCrE

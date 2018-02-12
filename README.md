@@ -11,8 +11,11 @@ Watch dog for RVN miner
 # Explorer info is taken from http://threeeyed.info/ API
 # Log file will be created in the same directory everytime RavenDog is started (i.e. when PC freezes and restarts)
 # Set "sendEmail:" to True ,to receive notifications , or False to disable it
-    Create new Gmail account or use old (not recommended)
-    You now have to allow “less secure apps” on your account. Otherwise, you won’t be able to connect to it with RavenDog (https://www.google.com/settings/security/lesssecureapps)
+    Create new Gmail account or use old one (not recommended)
+    
+    You now have to allow “less secure apps” on your account. Otherwise, you won’t be able to connect to it with RavenDog
+    https://www.google.com/settings/security/lesssecureapps
+    
     Set "sender@gmail.com","recipient@gmail.com","senderGmailPassword" fot it to work
 
 

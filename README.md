@@ -6,9 +6,11 @@ Watch dog for RVN miner
 # Set miner name in minerList 
 Your.bat will need title %~n0 as the first line (check RVN_miner.bat)
 RavenDog will search all folders in the directory and under
+
     minerList: RVN_miner.bat
 # Set GPU_checkNR 
 If you wish to check GPU load on second or third GPU
+
     GPU_checkNR: 0
 # Set how many seconds to check after
     retry_sec: 20

@@ -13,7 +13,8 @@ Watch dog for RVN miner
 # Set "sendEmail:" to True ,to receive notifications , or False to disable it
     Create new Gmail account or use old one (not recommended)
     
-    You now have to allow “less secure apps” on your account. Otherwise, you won’t be able to connect to it with RavenDog
+    You now have to allow “less secure apps” on your gmail account. 
+    Otherwise, you won’t be able to connect to it with RavenDog
     https://www.google.com/settings/security/lesssecureapps
     
     Set "sender@gmail.com","recipient@gmail.com","senderGmailPassword" fot it to work

@@ -24,7 +24,7 @@ Set
     sendEmail: False
     sender: sender@gmail.com
     recipient: recipient@gmail.com
-    password: senderGmailPassword
+   password: senderGmailPassword
 
 ![](https://i.imgur.com/z746ksc.png)
 

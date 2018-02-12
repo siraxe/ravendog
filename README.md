@@ -20,11 +20,11 @@ You now have to allow “less secure apps” on your gmail account.
 Otherwise, you won’t be able to connect to it with RavenDog
 [https://www.google.com/settings/security/lesssecureapps](https://www.google.com/settings/security/lesssecureapps)
     
-Set 
+
     sendEmail: False
     sender: sender@gmail.com
     recipient: recipient@gmail.com
-   password: senderGmailPassword
+    password: senderGmailPassword
 
 ![](https://i.imgur.com/z746ksc.png)
 
